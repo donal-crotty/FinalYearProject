@@ -7,3 +7,5 @@ an increased catch and profit.
 
 This application, added with a Thesis with the title "What will be the most beneficial type of data visualization 
 for a user to analyse tidal wave predictions in Ireland?" investigated this concept idea both practically and via research.
+
+## This repo is a work in progress. I plan to refactor my Final Year Project in Angular to help me learn the framework. I will be updating this repo as I work.
