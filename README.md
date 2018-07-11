@@ -9,3 +9,5 @@ This application, added with a Thesis with the title "What will be the most bene
 for a user to analyse tidal wave predictions in Ireland?" investigated this concept idea both practically and via research.
 
 ## This repo is a work in progress. I plan to refactor my Final Year Project in Angular to help me learn the framework. I will be updating this repo as I work.
+
+# The UI and Backend of my Final Year Project can be found under 'fyp_ui' and 'fyp_backend' repositories respectively.
